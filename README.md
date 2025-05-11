@@ -18,7 +18,7 @@
       <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
     </a> 
     <a> 
-      <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+      <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-lightgreen?logo=node.js">
     </a> 
     <a> 
       <img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?logo=azure&Color=white">
@@ -40,6 +40,18 @@
     </a>
     <a>
       <img alt="Spring" src="https://img.shields.io/badge/-Spring-green?logo=spring&logoColor=white">
+    </a>
+    <a>
+      <img alt="Docker" src="https://img.shields.io/badge/-Docker-white?logo=docker&logoColor=blue">
+    </a>
+    <a>
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-lightblue?logo=tailwindcss">
+    </a>
+    <a>
+      <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes%20-%23FFFFFF.svg?logo=kubernetes&logoColor=blue">
+    </a>
+    <a>
+      <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-aquamarine?logo=cypress&logoColor=blue">
     </a>
   </div>
 
