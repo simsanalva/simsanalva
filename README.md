@@ -53,8 +53,10 @@
   <a href="https://www.hackerrank.com/profile/sanchezalvarezs1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <img align="right" src="https://github.com/halfrost/halfrost/blob/master/icons/github.gif" alt="github" width="100px" />
+  <img align="right" src="https://github.com/halfrost/halfrost/blob/master/icons/github.gif" alt="github" width="130px" />
 </p>
+
+<br>
 
 ## My stats
 
